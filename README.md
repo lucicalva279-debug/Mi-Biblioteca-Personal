@@ -41,4 +41,3 @@ go run ./cmd/biblioteca
 
 ## Autora
 Luciana Calva
-Ingeniería en Ciberseguridad

@@ -40,5 +40,9 @@ go run ./cmd/biblioteca
 ```
 
 ## Autora
+<<<<<<< HEAD
 
 Luciana Calva
+=======
+Luciana Calva
+>>>>>>> d9ff8b1a612bc1574e6c08cd5591a70e75b68a0d
